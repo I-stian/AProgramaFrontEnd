@@ -1,0 +1,20 @@
+
+article {
+  background: #283c86;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+  
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+a {
+  font-family: 'Poppins';
+}
+
+.carousel-inner{
+  max-height: 18rem;
+}
+
+.card-img-top{
+  max-height: 13rem;
+}
